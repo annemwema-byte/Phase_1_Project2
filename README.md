@@ -64,6 +64,8 @@ Helps measure how severe accidents are across different aircraft categories.
 Line chart of accidents per year.
 Reveals whether aviation safety is improving or worsening over time.
 
+For more visualizations [click here](https://public.tableau.com/app/profile/anne.mwema/viz/10-03-2025-ANM/Dashboard1?publish=yes)
+
 ## Conclusion
 Summary of Findings
 
@@ -80,4 +82,3 @@ Focus on early growth into newer commercial aircraft (Boeing, Airbus, Embraer) w
 Avoid high-risk, older general aviation aircraft unless targeting private markets with strict risk management.
 
 Invest in full-maintenance programs and pilot training to further reduce operational risk.
-
